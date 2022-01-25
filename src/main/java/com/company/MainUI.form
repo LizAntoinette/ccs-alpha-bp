@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.MainUI">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FormLayout">
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="fill:35px:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <colspec value="fill:35px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:35px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:35px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:35px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:35px:noGrow"/>
+    <constraints>
+      <xy x="20" y="20" width="204" height="370"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="e7243" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a4481" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="76e75" class="javax.swing.JButton" binding="button3" default-binding="true">
+        <constraints>
+          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="93d4f" class="javax.swing.JButton" binding="button4" default-binding="true">
+        <constraints>
+          <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="cf88f" class="javax.swing.JButton" binding="button5" default-binding="true">
+        <constraints>
+          <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="2dd" class="javax.swing.JButton" binding="button6" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d2919" class="javax.swing.JButton" binding="button7" default-binding="true">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="36494" class="javax.swing.JButton" binding="button8" default-binding="true">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="124bd" class="javax.swing.JButton" binding="button9" default-binding="true">
+        <constraints>
+          <grid row="2" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="84153" class="javax.swing.JButton" binding="button10" default-binding="true">
+        <constraints>
+          <grid row="2" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="b496b" class="javax.swing.JButton" binding="button11" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="213a7" class="javax.swing.JButton" binding="button12" default-binding="true">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="50772" class="javax.swing.JButton" binding="button13" default-binding="true">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d392" class="javax.swing.JButton" binding="button14" default-binding="true">
+        <constraints>
+          <grid row="4" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d6603" class="javax.swing.JButton" binding="button15" default-binding="true">
+        <constraints>
+          <grid row="4" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="19afd" class="javax.swing.JButton" binding="button16" default-binding="true">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="78691" class="javax.swing.JButton" binding="button17" default-binding="true">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="daae2" class="javax.swing.JButton" binding="button18" default-binding="true">
+        <constraints>
+          <grid row="6" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a666f" class="javax.swing.JButton" binding="button19" default-binding="true">
+        <constraints>
+          <grid row="6" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="518c3" class="javax.swing.JButton" binding="button20" default-binding="true">
+        <constraints>
+          <grid row="6" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="86d5d" class="javax.swing.JButton" binding="button21" default-binding="true">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="5ba0f" class="javax.swing.JButton" binding="button22" default-binding="true">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="6447e" class="javax.swing.JButton" binding="button23" default-binding="true">
+        <constraints>
+          <grid row="8" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="db821" class="javax.swing.JButton" binding="button24" default-binding="true">
+        <constraints>
+          <grid row="8" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="f8571" class="javax.swing.JButton" binding="button25" default-binding="true">
+        <constraints>
+          <grid row="8" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="987ef" class="javax.swing.JButton" binding="button26" default-binding="true">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="b184f" class="javax.swing.JButton" binding="button27" default-binding="true">
+        <constraints>
+          <grid row="10" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="ba4c9" class="javax.swing.JButton" binding="button28" default-binding="true">
+        <constraints>
+          <grid row="10" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="f4ac9" class="javax.swing.JButton" binding="button29" default-binding="true">
+        <constraints>
+          <grid row="10" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d34bf" class="javax.swing.JButton" binding="button30" default-binding="true">
+        <constraints>
+          <grid row="10" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="8894a" class="javax.swing.JButton" binding="button31" default-binding="true">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="6fd87" class="javax.swing.JButton" binding="button32" default-binding="true">
+        <constraints>
+          <grid row="12" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="41a88" class="javax.swing.JButton" binding="button33" default-binding="true">
+        <constraints>
+          <grid row="12" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="fd2c3" class="javax.swing.JButton" binding="button34" default-binding="true">
+        <constraints>
+          <grid row="12" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="38be0" class="javax.swing.JButton" binding="button35" default-binding="true">
+        <constraints>
+          <grid row="12" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="50b3c" class="javax.swing.JButton" binding="predictButton" default-binding="true">
+        <constraints>
+          <grid row="16" column="6" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="Predict"/>
+        </properties>
+      </component>
+      <component id="8b6fd" class="javax.swing.JLabel" binding="predict">
+        <constraints>
+          <grid row="16" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <text value="Prediction"/>
+        </properties>
+      </component>
+      <component id="1705a" class="javax.swing.JLabel" binding="predictionText">
+        <constraints>
+          <grid row="16" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value=" _"/>
+        </properties>
+      </component>
+      <component id="3f464" class="javax.swing.JButton" binding="trainButton" default-binding="true">
+        <constraints>
+          <grid row="14" column="6" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="Train"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
